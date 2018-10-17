@@ -1,0 +1,23 @@
+body{
+    height: 100%;
+    background-color: #302E2E;
+}
+
+i{
+    font-size: 45px;
+    margin: 30px;
+}
+
+.fa-steam, .fa-github {
+    font-size: 30px;
+    color: white;
+    margin: 25px;
+}
+.fa-steam:hover, .fa-github:hover {
+    color: gray;
+}
+
+.fa-teamspeak {
+    font-size: 20px;
+    margin: 5px;
+}
